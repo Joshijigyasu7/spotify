@@ -1,0 +1,11 @@
+#j{
+    display:flex;
+    background-color: blue;
+    height: 40px;
+}
+#j1{
+    left: 20px;
+}
+#j2{
+margin-left: :50px;
+}
